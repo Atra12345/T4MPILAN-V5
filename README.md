@@ -7,3 +7,4 @@ Follow The Steps Below!
 > git clone https://github.com/4NK3R-PRODUCT1ON/T4MPILAN-V5
 > cd T4MPILAN-V5
 > python2 style5.py
+Ha setetah itu jadi deh
